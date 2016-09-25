@@ -1,2 +1,2 @@
 # CaseSuite
-personal caseSets &amp; docs
+..personal caseSets &amp; docs
