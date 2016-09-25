@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/tab_mystore.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/tab_mystore.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/home_foot_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/home_foot_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_goods_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_goods_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/my_cart_edit_num.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/my_cart_edit_num.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/more_about.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/more_about.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/registered_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/registered_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/address_edit_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/address_edit_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listview_address_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listview_address_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/tab_home.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/tab_home.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/cart_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/cart_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/address_listview.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/address_listview.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/my_out.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/my_out.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_order2_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_order2_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/goods_tab_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/goods_tab_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_search_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_search_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_cart_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_cart_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/favorites_listview.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/favorites_listview.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/sms_person_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/sms_person_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_store_cart_item2.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_store_cart_item2.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/expandable_listview_type_next_child_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/expandable_listview_type_next_child_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_store_cart_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_store_cart_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/type_next.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/type_next.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/list_more_load.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/list_more_load.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/gallery_goods_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/gallery_goods_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_voucher_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_voucher_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/pay_ment_webview.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/pay_ment_webview.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_order_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_order_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/mansong_rules_listview_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/mansong_rules_listview_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_invoice_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_invoice_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/setting_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/setting_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/gridview_color_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/gridview_color_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/more_help.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/more_help.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/history_browse_listview.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/history_browse_listview.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/goods_list.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/goods_list.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/gridview_size_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/gridview_size_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_favorites_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_favorites_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/address_add_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/address_add_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/goods_details_spec_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/goods_details_spec_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listview_item_icon_text_icon02.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listview_item_icon_text_icon02.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/buy_step1_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/buy_step1_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/start_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/start_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listview_select_city_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listview_select_city_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/tab_type.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/tab_type.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/more_feekbask.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/more_feekbask.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/listivew_type_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/listivew_type_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/gridview_commend_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/gridview_commend_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/tab_home2.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/tab_home2.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/goods_tab.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/goods_tab.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/order_listview.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/order_listview.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/expandable_listview_type_next_group_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/expandable_listview_type_next_group_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/goods_details_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/goods_details_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/search_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/search_view.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/goods_details_webview.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/goods_details_webview.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/layout/login_view.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/layout/login_view.xml"
+    }
+]

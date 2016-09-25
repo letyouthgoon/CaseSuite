@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-ldpi/progress_bg.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-ldpi/progress_bg.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-ldpi/home_logo.9.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-ldpi/home_logo.9.png"
+    }
+]

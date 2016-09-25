@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="emmsession">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdktest_android/libs/emmsession.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

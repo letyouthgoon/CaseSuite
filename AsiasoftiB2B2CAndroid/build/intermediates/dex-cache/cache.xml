@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f563023be2763ed860b8f6e9943e5fcb0e590fb9">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a724cbabd57100d544e22887a64393f097a300f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/libs/baidumapapi_v3_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_v3_0_0_c9788aa71ed32112305c5be788f3b5febb33364f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/libs/locSDK_4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_4.2_d7573865e7765dca10ea15625265475596796ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/libs/alipay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0668f39e7366ea40bcac00660fbe0ea7c424f00e">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipay_681be59859b10eb43b0119979c11439f28c441ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_a1595f1ea3b272e81195aee58c8128860df57926/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="988e0e5e65c71d0c0f5f4eccf50fe7d236180593">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_985d48d28ebf02a01b1bd5da2e38dc45c0e5cdfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.3_fc874cbc3ef623ff6f1861892df47f21a5f421e7/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fffafafa" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/llout" android:background="#ffd9434e" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:gravity="center_vertical" android:id="@id/imageBack" android:background="@drawable/icon_back_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" />
+        <EditText android:textSize="15.0dip" android:id="@id/editSearch" android:background="@drawable/frame_search" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="搜索商品" android:singleLine="true" android:drawableLeft="@drawable/zoom" android:layout_weight="1.0" />
+        <TextView android:textSize="15.0dip" android:textColor="#ffffffff" android:id="@id/textSearchButton" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="搜索" />
+    </LinearLayout>
+    <ListView android:id="@id/searchListView" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="#fff5f5f5" android:cacheColorHint="#fff5f5f5" android:divider="@drawable/cart_listview_gap" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="String_loading_pic">正在加載圖片&#8230;</string>
+    <string name="String_pad_noaction">暫時沒有人共亯檔案</string>
+    <string name="sure">確定</string>
+    <string name="cancel">取消</string>
+    <string name="line_width">線條寬度</string>
+    <string name="entry_content">請輸入內容</string>
+
+</resources>

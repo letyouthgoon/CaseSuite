@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" 
+       >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="导航"
+                    android:textColor="#ff000000"
+                    android:textSize="15dip" />
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dip"
+                    android:layout_alignParentBottom="true"
+                    android:background="#F07613" />
+                  
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="150dip"
+            >
+       <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <LinearLayout
+                android:id="@+id/linea"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip" >
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="起始地点 :"
+                    android:textColor="#ff000000"
+                    android:layout_marginLeft="30dip" />
+
+                <TextView
+                    android:id="@+id/qishi_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:text="百度大厦"
+                    android:textColor="#ff000000" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linea1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/linea"
+                android:layout_marginTop="20dip" >
+
+                <TextView
+                    android:id="@+id/text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="目的地 :"
+                    android:textColor="#ff000000" 
+                    android:layout_marginLeft="30dip"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toRightOf="@id/text1"
+                    android:text="鄂尔多斯市东胜区中正集团"
+                    android:textColor="#ff000000" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bai_btn"
+                android:layout_width="100dip"
+                android:layout_height="50dip"
+                android:layout_below="@id/linea1"
+                android:background="#F07613"
+                android:text="导航"
+                android:textSize="15dip" 
+                android:layout_marginTop="20dip"
+                android:onClick="startNavi"
+                android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+           
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

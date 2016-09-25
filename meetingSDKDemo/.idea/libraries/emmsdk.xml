@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="emmsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdktest_android/libs/emmsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

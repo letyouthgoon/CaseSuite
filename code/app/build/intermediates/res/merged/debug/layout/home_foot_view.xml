@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fff5f5f5" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="5.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:orientation="horizontal" android:id="@id/linearlayoutBean1" android:background="#ffffffff" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center" android:id="@id/imageBean1Pic" android:background="@drawable/default_goods_image_240" android:layout_width="75.0dip" android:layout_height="75.0dip" />
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip">
+                    <TextView android:textSize="15.0dip" android:textColor="#ff000000" android:id="@id/textTitleBean1Name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="生活必备" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc1Bean1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="优惠指南" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc2Bean1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="生活必须品" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linearlayoutBean2" android:background="#ffffffff" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center" android:id="@id/imageBean2Pic" android:background="@drawable/default_goods_image_240" android:layout_width="75.0dip" android:layout_height="75.0dip" />
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip">
+                    <TextView android:textSize="15.0dip" android:textColor="#ff000000" android:id="@id/textTitleBean2Name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="人气团购" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc1Bean2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="劲爆单品" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc2Bean2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_weight="1.0">
+            <LinearLayout android:orientation="horizontal" android:id="@id/linearlayoutBean3" android:background="#ffffffff" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center" android:id="@id/imageBean3Pic" android:background="@drawable/default_goods_image_240" android:layout_width="75.0dip" android:layout_height="75.0dip" />
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip">
+                    <TextView android:textSize="15.0dip" android:textColor="#ff000000" android:id="@id/textTitleBean3Name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="团购狂欢" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc1Bean3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="品牌团疯" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc2Bean3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="狂购" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linearlayoutBean4" android:background="#ffffffff" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center" android:id="@id/imageBean4Pic" android:background="@drawable/default_goods_image_240" android:layout_width="75.0dip" android:layout_height="75.0dip" />
+                <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip">
+                    <TextView android:textSize="15.0dip" android:textColor="#ff000000" android:id="@id/textTitleBean4Name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="1号生鲜" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc1Bean4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="帝都生鲜" android:singleLine="true" />
+                    <TextView android:textSize="13.0dip" android:textColor="#ff505050" android:id="@id/textDesc2Bean4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="品优惠购" android:singleLine="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

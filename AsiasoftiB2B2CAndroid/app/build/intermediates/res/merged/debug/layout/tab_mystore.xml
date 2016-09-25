@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fffafafa"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@id/SView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@id/linearLayoutNOLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20.0dip"
+                android:background="@drawable/login_title_bg"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="欢迎使用"
+                    android:textColor="#ffffffff"
+                    android:textSize="16.0dip" />
+
+                <Button
+                    android:id="@id/buttonLoginSubmit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10.0dip"
+                    android:background="@drawable/login_submit_button"
+                    android:text="立即登陆"
+                    android:textColor="#ffffffff"
+                    android:textSize="15.0dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@id/linearLayoutYesLogin"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10.0dip"
+                    android:layout_marginLeft="10.0dip"
+                    android:layout_marginTop="10.0dip"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@id/imageMyAvator"
+                        android:layout_width="120.0dip"
+                        android:layout_height="120.0dip"
+                        android:background="@drawable/image_background"
+                        android:padding="5.0dip"
+                        android:src="@drawable/default_user_portrait" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="10.0dip"
+                    android:layout_marginRight="10.0dip"
+                    android:layout_marginTop="10.0dip"
+                    android:orientation="vertical"
+                    android:padding="5.0dip" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="用名昵称:"
+                            android:textColor="#ff6d6d6d"
+                            android:textSize="18.0dip" />
+
+                        <TextView
+                            android:id="@id/textMyUserName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="KingKong"
+                            android:textColor="#ff6d6d6d"
+                            android:textSize="20.0dip" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginTop="5.0dip"
+                        android:background="@drawable/num"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5.0dip"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="积分"
+                                android:textColor="#ff6d6d6d"
+                                android:textSize="16.0dip" />
+
+                            <TextView
+                                android:id="@id/textMyPoint"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:singleLine="true"
+                                android:text="0"
+                                android:textColor="#ffcc1212"
+                                android:textSize="16.0dip" />
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="1.0dip"
+                            android:layout_height="fill_parent"
+                            android:background="@drawable/product_summary_tab_item_title_bg" />
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5.0dip"
+                            android:layout_weight="1.0"
+                            android:gravity="center"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="余额"
+                                android:textColor="#ff6d6d6d"
+                                android:textSize="16.0dip" />
+
+                            <TextView
+                                android:id="@id/textMyPredepoit"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:singleLine="true"
+                                android:text="￥ 66643.0"
+                                android:textColor="#ffcc1212"
+                                android:textSize="16.0dip" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <net.asiasofti.android.ui.custom.MyListView
+                android:id="@id/mystoreListView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="10.0dip"
+                android:divider="@null"
+                android:listSelector="#00000000" />
+
+            <Button
+                android:id="@id/buttonLoingOut"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10.0dip"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="20.0dip"
+                android:background="@drawable/add_to_car_button_normal"
+                android:padding="10.0dip"
+                android:text="退出当前账号"
+                android:textColor="#ffffffff"
+                android:textSize="16.0dip"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+   
+
+    
+</LinearLayout>
+</FrameLayout>

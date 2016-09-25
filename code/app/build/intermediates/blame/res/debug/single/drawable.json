@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_bar_bg.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_bar_bg.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/pay_type_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/pay_type_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/checkbox_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/checkbox_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/zoom.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/zoom.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/test_photo04.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/test_photo04.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/text_border_normal.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/text_border_normal.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/cart_listview_gap.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/cart_listview_gap.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_homebutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_homebutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/groupon_textview_border_bg.9.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/groupon_textview_border_bg.9.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_des_normal_1.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_des_normal_1.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/common_title_search_btn_bg.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/common_title_search_btn_bg.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_typebutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_typebutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_des_down.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_des_down.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/frame_search.9.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/frame_search.9.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_mystorebutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_mystorebutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/home_promotion_icon.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/home_promotion_icon.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/main_index_mystore_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/main_index_mystore_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_add_no_enable.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_add_no_enable.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_homebutton_press.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_homebutton_press.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/test_photo03.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/test_photo03.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_typebutton_press.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_typebutton_press.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_des_no_enable.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_des_no_enable.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/goods_tab_new_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/goods_tab_new_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/list_item_plain.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/list_item_plain.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/list_item_last.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/list_item_last.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/expandable_body_line.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/expandable_body_line.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/goods_tab_btn_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/goods_tab_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/type_second_gray_point.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/type_second_gray_point.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/main_index_home_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/main_index_home_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/main_index_type_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/main_index_type_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/num.9.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/num.9.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/test_photo.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/test_photo.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/goods_tab_price_bg_2.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/goods_tab_price_bg_2.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/cart_checkbox_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/cart_checkbox_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/text_border.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/text_border.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/goods_tab_price_bg_1.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/goods_tab_price_bg_1.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/goods_tab_man_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/goods_tab_man_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/groupon_price_l.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/groupon_price_l.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_cartbutton_normal2.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_cartbutton_normal2.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/goods_tab_num_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/goods_tab_num_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/test_photo06.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/test_photo06.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_mystorebutton_press.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_mystorebutton_press.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/test_photo05.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/test_photo05.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_add_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_add_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/start_bg.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/start_bg.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/divider02.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/divider02.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/right_arrow.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/right_arrow.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/divid.9.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/divid.9.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/test_photo02.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/test_photo02.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/home_textcolor_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/home_textcolor_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/tab_main_cartbutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/tab_main_cartbutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/main_index_about_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/main_index_about_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/list_item_first.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/list_item_first.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_des_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_des_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/list_item_single.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/list_item_single.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/main_index_cart_bg.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/main_index_cart_bg.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/text_border_select.xml",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/text_border_select.xml"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable/edit_product_num_add_down.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable/edit_product_num_add_down.png"
+    }
+]

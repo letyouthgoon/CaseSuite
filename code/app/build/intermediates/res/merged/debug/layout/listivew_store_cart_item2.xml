@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:layout_width="60.0dip" android:layout_height="60.0dip">
+                <ImageView android:layout_gravity="center" android:id="@id/imageGoodsPic" android:background="@drawable/default_goods_image_240" android:paddingRight="0.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" />
+                <ImageView android:id="@id/imageZengIco" android:background="@drawable/cart_zeng_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+            </RelativeLayout>
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:paddingLeft="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="13.0dip" android:textColor="#ff6d6d6d" android:layout_gravity="center_vertical" android:id="@id/textGoodsName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="端美2013秋装新款女装长袖女打底针织衫T恤928双旦促销，快来抢购" android:maxLines="2" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <TextView android:textSize="12.0dip" android:textColor="#ff959595" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="单   价：" />
+                        <TextView android:textSize="12.0dip" android:textColor="#ffcc1212" android:layout_gravity="center_vertical" android:id="@id/textGoodsPrice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="$ 50.00" android:singleLine="true" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                        <TextView android:textSize="12.0dip" android:textColor="#ff959595" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="数   量：" />
+                        <TextView android:textSize="12.0dip" android:textColor="#ffcc1212" android:layout_gravity="center_vertical" android:id="@id/textGoodsNUM" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="4" android:singleLine="true" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

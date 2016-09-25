@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="outinterface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OutInterFace/libs/outinterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

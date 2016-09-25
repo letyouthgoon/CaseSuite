@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simple_eventbus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sdktest_android/libs/simple_eventbus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/src/main/assets"><file name="alipay_msp.apk" path="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/src/main/assets/alipay_msp.apk"/></source><source path="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/src/debug/assets"/></dataSet></merger>

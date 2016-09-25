@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff5f5f5"
+    android:orientation="vertical"
+    android:padding="10.0dip" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@id/imageGoodsPic"
+            android:layout_width="100.0dip"
+            android:layout_height="100.0dip"
+            android:layout_gravity="center"
+            android:background="@drawable/default_goods_image_240"
+            android:paddingRight="5.0dip" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:orientation="vertical"
+            android:paddingLeft="5.0dip" >
+
+            <TextView
+                android:id="@+id/textGoodsName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="3.0dip"
+                android:maxLines="2"
+                android:text="端美2013秋装新款女装长袖女打底针织衫T恤928双旦促销，快来抢购"
+                android:textColor="#ff6d6d6d"
+                android:textSize="18.0dip" />
+
+            <TextView
+                android:id="@+id/textGoodsPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5.0dip"
+                android:layout_marginLeft="3.0dip"
+                android:layout_marginTop="5.0dip"
+                android:singleLine="true"
+                android:text="$ 50.00"
+                android:textColor="#ffcc1212"
+                android:textSize="16.0dip" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@id/imageFacoritesDeleteButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/delete_btn"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fff5f5f5" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="15.0dip" android:textColor="#ff959595" android:id="@id/textOrderStoreName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="店铺名称：官方店铺" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="15.0dip" android:textColor="#ff959595" android:id="@id/textOrderSN" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="订单编号：2131231231231" android:layout_weight="1.0" />
+                <TextView android:textSize="14.0dip" android:textColor="#ff959595" android:layout_gravity="center_vertical" android:id="@id/textOrderOperation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="取消" />
+            </LinearLayout>
+        </LinearLayout>
+        <View android:background="@drawable/cart_listview_gap" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <net.asiasofti.android.ui.custom.MyListView android:id="@id/goodsListView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" />
+        </LinearLayout>
+        <View android:background="@drawable/cart_listview_gap" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="5.0dip" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14.0dip" android:textColor="#ff959595" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="总   价：" />
+                    <TextView android:textSize="14.0dip" android:textColor="#ffcc1212" android:id="@id/textOrderAllPrice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="￥325.0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14.0dip" android:textColor="#ff959595" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="运   费：" />
+                    <TextView android:textSize="14.0dip" android:textColor="#ffcc1212" android:id="@id/textOrderShippingFee" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="￥325.0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="right|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="14.0dip" android:textColor="#ff439c1f" android:id="@id/textOrderSuccess" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="交易成功" />
+                <Button android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/buttonFuKuan" android:background="@drawable/add_to_car_button_normal" android:padding="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="付款" />
+                <Button android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/buttonQuXiao" android:background="@drawable/add_to_car_button_normal" android:padding="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="取消" />
+                <Button android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/buttonQuery" android:background="@drawable/add_to_car_button_normal" android:padding="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="查看物流" />
+                <Button android:textColor="#ffffffff" android:layout_gravity="center_vertical" android:id="@id/buttonQueRen" android:background="@drawable/add_to_car_button_normal" android:padding="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="确认收货" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

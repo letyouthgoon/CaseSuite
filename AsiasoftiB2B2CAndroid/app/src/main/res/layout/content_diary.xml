@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e9e9e9"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#F1F5FB"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:background="#F07613" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <ImageView
+                    android:id="@+id/home_image"
+                    android:layout_width="30dip"
+                    android:layout_height="30dip"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:background="@drawable/hengtiao" />
+
+                <TextView
+                    android:id="@+id/home_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="同城预订"
+                    android:textSize="15dip" 
+                    android:textColor="#ff000000"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/city_texth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:text="城市"
+                    android:textColor="#ffffffff"
+                    android:textSize="18dip" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="9" >
+
+            <ScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+                   
+                    <EditText
+                        android:id="@+id/edittext"
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dip"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginLeft="10dip"
+                        android:layout_marginRight="10dip"
+                        android:layout_marginTop="5dip"
+                        android:background="@drawable/corners_bg"
+                        android:hint="商户名,地址" 
+                        android:textSize="12dip"
+                        android:drawableLeft="@drawable/huatong25"
+                        android:paddingLeft="10dip"/>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="0dip"
+                        android:layout_marginLeft="10dip"
+                        android:layout_marginRight="10dip"
+                        android:layout_marginTop="10dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/corners_bg" >
+
+                        <include layout="@layout/home_one" />
+                    </LinearLayout>
+
+                    <ListView
+                        android:id="@+id/home_listview"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="5dip"
+                        android:layout_marginRight="5dip"
+                        android:layout_marginTop="10dip" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

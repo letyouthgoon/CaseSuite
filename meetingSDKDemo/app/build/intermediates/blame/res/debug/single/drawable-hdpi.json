@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/right_arr.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/right_arr.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/line_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/line_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/clear_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/clear_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/toast_alert_bg.9.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/toast_alert_bg.9.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/markpen_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/markpen_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ellipse_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/ellipse_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ellipse_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/ellipse_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/left_arr.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/left_arr.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/arrowline_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/arrowline_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/total_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/total_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/clear_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/clear_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/rectangle_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/rectangle_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/text_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/text_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/total_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/total_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/text_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/text_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/markpen_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/markpen_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/line_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/line_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/rectangle_checked_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/rectangle_checked_img.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/arrowline_img.png",
+        "source": "/Users/leo/Documents/workspace/meetingSDKDemo/app/src/main/res/drawable-hdpi/arrowline_img.png"
+    }
+]

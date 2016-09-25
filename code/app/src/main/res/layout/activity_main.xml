@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TabHost android:id="@android:id/tabhost" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@android:id/tabcontent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TabWidget android:id="@android:id/tabs" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.0" />
+            <RadioGroup android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/main_tab_group" android:background="@drawable/tab_bar_bg" android:paddingTop="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RadioButton android:id="@id/main_tab_home" android:checked="true" android:text="@string/main_index_home_text" android:drawableTop="@drawable/main_index_home_bg" style="@style/MyTabButton" />
+                <RadioButton android:id="@id/main_tab_type" android:text="@string/main_index_type_text" android:drawableTop="@drawable/main_index_type_bg" style="@style/MyTabButton" />
+                <RadioButton android:id="@id/main_tab_mystore" android:text="@string/main_index_mystore_text" android:drawableTop="@drawable/main_index_mystore_bg" style="@style/MyTabButton" />
+                <RadioButton android:id="@id/main_tab_cart" android:text="@string/main_index_cart_text" android:drawableTop="@drawable/main_index_cart_bg" style="@style/MyTabButton" />
+            </RadioGroup>
+        </LinearLayout>
+    </TabHost>
+</LinearLayout>

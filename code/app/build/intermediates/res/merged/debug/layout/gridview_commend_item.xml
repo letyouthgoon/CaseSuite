@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/imageviewPIC" android:background="@drawable/default_goods_image_240" android:focusable="false" android:clickable="false" android:layout_width="90.0dip" android:layout_height="90.0dip" />
+        <TextView android:textSize="13.0dip" android:textColor="#ff6d6d6d" android:gravity="left|center" android:id="@id/textGoodsCommendName" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="时尚新品 2014年冬季热销" android:maxLines="2" />
+        <TextView android:textSize="13.0dip" android:textColor="#ffca0606" android:gravity="left|center" android:id="@id/textGoodsCommendPrice" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="￥ 120" />
+    </LinearLayout>
+</LinearLayout>

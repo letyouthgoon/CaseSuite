@@ -1,0 +1,7 @@
+#Sun Sep 25 23:12:58 CST 2016
+base.0=/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_985d48d28ebf02a01b1bd5da2e38dc45c0e5cdfb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a724cbabd57100d544e22887a64393f097a300f8/classes.dex
+base.1=/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a724cbabd57100d544e22887a64393f097a300f8
+file.0=/Users/leo/Documents/workspace/AsiasoftiB2B2CAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_985d48d28ebf02a01b1bd5da2e38dc45c0e5cdfb/classes.dex

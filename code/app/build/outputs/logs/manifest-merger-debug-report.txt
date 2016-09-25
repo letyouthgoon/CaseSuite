@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:4:5-83
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:4:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:5:22-78
+supports-screens
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:6:7-11:40
+	android:largeScreens
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:8:9-36
+	android:smallScreens
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:9:9-37
+	android:xlargeScreens
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:11:9-37
+	android:anyDensity
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:7:9-34
+application
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:5-48:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:82-114
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:202-243
+	android:allowBackup
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:18-44
+	android:icon
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:45-81
+	android:theme
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:165-201
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:12:115-164
+meta-data#AA_DB_NAME
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:13:9-78
+	android:value
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:13:46-76
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:13:20-45
+meta-data#AA_DB_VERSION
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:14:9-68
+	android:value
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:14:20-48
+activity#net.asiasofti.android.StartActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:15:103-139
+	android:label
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:15:19-51
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:15:52-102
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:18:27-74
+activity#net.asiasofti.android.MainActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:21:9-149
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:21:69-105
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:21:106-147
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:21:19-68
+activity#net.asiasofti.android.ui.home.HomeActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:22:9-136
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:22:56-92
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:22:93-134
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:22:19-55
+activity#net.asiasofti.android.ui.type.TypeAcitivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:23:9-137
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:23:57-93
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:23:94-135
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:23:19-56
+activity#net.asiasofti.android.ui.type.TypeNextActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:24:9-140
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:24:60-96
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:24:97-138
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:24:19-59
+activity#net.asiasofti.android.ui.type.GoodsListViewActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:25:9-145
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:25:65-101
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:25:102-143
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:25:19-64
+activity#net.asiasofti.android.ui.type.GoodsTabActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:26:9-140
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:26:60-96
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:26:97-138
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:26:19-59
+activity#net.asiasofti.android.ui.type.GoodsDetailsActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:27:9-144
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:27:64-100
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:27:101-142
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:27:19-63
+activity#net.asiasofti.android.ui.type.GoodsDetailsWebAcivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:28:9-146
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:28:66-102
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:28:103-144
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:28:19-65
+activity#net.asiasofti.android.ui.mystore.MyStoreActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:29:9-142
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:29:62-98
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:29:99-140
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:29:19-61
+activity#net.asiasofti.android.ui.mystore.RegisteredActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:30:9-145
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:30:65-101
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:30:102-143
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:30:19-64
+activity#net.asiasofti.android.ui.mystore.FavoritesListActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:31:9-148
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:31:68-104
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:31:105-146
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:31:19-67
+activity#net.asiasofti.android.ui.mystore.PayMentWebAcivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:32:9-144
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:32:64-100
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:32:101-142
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:32:19-63
+activity#net.asiasofti.android.ui.mystore.LoginActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:33:9-140
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:33:60-96
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:33:97-138
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:33:19-59
+activity#net.asiasofti.android.ui.mystore.AddressListActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:34:9-146
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:34:66-102
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:34:103-144
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:34:19-65
+activity#net.asiasofti.android.ui.mystore.FeekBaskActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:35:9-143
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:35:63-99
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:35:100-141
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:35:19-62
+activity#net.asiasofti.android.ui.mystore.AddressEditActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:36:9-146
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:36:66-102
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:36:103-144
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:36:19-65
+activity#net.asiasofti.android.ui.mystore.AddressAddActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:37:9-145
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:37:65-101
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:37:102-143
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:37:19-64
+activity#net.asiasofti.android.ui.mystore.OrderListActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:38:9-144
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:38:64-100
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:38:101-142
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:38:19-63
+activity#net.asiasofti.android.ui.mystore.SettingActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:39:9-142
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:39:62-98
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:39:99-140
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:39:19-61
+activity#net.asiasofti.android.ui.type.BuyStep1Activity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:40:9-140
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:40:60-96
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:40:97-138
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:40:19-59
+activity#net.asiasofti.android.ui.type.BuyAddressListActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:41:9-146
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:41:66-102
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:41:103-144
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:41:19-65
+activity#net.asiasofti.android.ui.mystore.HistoryBrowseListActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:42:9-152
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:42:72-108
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:42:109-150
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:42:19-71
+activity#net.asiasofti.android.ui.search.SearchActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:43:9-140
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:43:60-96
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:43:97-138
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:43:19-59
+activity#net.asiasofti.android.ui.more.AboutActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:44:9-137
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:44:57-93
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:44:94-135
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:44:19-56
+activity#net.asiasofti.android.ui.cart.CartActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:45:9-136
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:45:56-92
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:45:93-134
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:45:19-55
+activity#net.asiasofti.android.ui.mystore.HelpActivity
+ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:46:9-139
+	android:screenOrientation
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:46:59-95
+	android:windowSoftInputMode
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:46:96-137
+	android:name
+		ADDED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml:46:19-58
+uses-sdk
+INJECTED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/AndroidManifest.xml:21:5-23:60
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/AndroidManifest.xml:23:9-75
+	android:minSdkVersion
+		INJECTED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leo/Documents/workspace/code/app/src/main/AndroidManifest.xml

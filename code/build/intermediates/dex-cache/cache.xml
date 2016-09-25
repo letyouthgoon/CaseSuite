@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_80514094d9a4ba51fff04048b66cc35bfac2182e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b6479758abcabefc841b94aa11d3e4f47fa8de95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_b35900d2c02e7f247ca381b124a912044d5de649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_610504b07c4e3c0a1a036f2b1fa0ffb273dd9667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ddc8781341f5b69f27be6ca98098e13d3c19713a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_c4ae05c71b2bccac008241439517d2abcd94289c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="330dc28c1ac24411cded607d3e416189da656553">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c65608c41aba76fddaa23e12795d8e17ac7ed301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_605a5e6a8f09d7d41bcfd97f4d808d68cebcfa6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_550ceefe6b1ea8c00fe7fe158e304bbc97e52aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_6d4fb0c00e54e6f1859a971ec59a87c4401d3de7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_024f1a98595f81c98c5f7f67743b921830f9af75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb876e85e6c5a80a060b500b74406dab4c31f1bf">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb16a30ce1e12fefef35ea6da57de36be4ea495c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6abf4f96c2ef0e38f06f742e889de587ae0db837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5f8b0d5be8ac198e1dc227b141963b58fabc360c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.3_fdef4db6bc4339b8b50169a8024d4baa9c905f1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_a054e4f7a75feb109c879578aa03510d95d11173/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_6462cf27219d74412422b18620f22801943644c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_6d5472588a23ff4166a2d3dcc26e38f5d5dc5481/classes.dex" />
+    </item>
+
+</items>

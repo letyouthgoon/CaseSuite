@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9d94f6c39afe2cf5d8b842623dd8f704e9433f6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/sdktest_android/unspecified/jars/libs/commons-lang-2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7b864bf2ded4300446c9316d5cfff88effcbbfd2">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/commons-lang-2.6_35c57fcce16142ff4e96f21fde071aba160133ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_2ec509d9760065edc5637b0e549f7eacf8be6ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_b00fcbfeafc404f469257e4d5d4c38353bc3478c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/sdktest_android/unspecified/jars/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f64e0f80ef26fbc722b4bc9f024370d5b1e8f6d6">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/okio-1.7.0_626bc7da4ca2d818f31d138af7ddfa0496618047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_039e9e876ffa8d7fbde46abaf3cb778846ad1ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6b2259d499e102ec9b21faec2630a043038fa4a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c6a0a9e388d2a834dc2aac231ba698242b40ebee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/OutInterFace/unspecified/jars/libs/outinterface.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c41340db32fabae8f4dc125499abb59656b791e4">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/outinterface_b33cefb4509c59a0be286fa2e7c075d1a2a5b0f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_e6007bc002d81ec789521adb69ed5d662f0f474e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/WhitePad/unspecified/jars/libs/msgpack-0.6.10-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e4cfb743dce0aa5940a477fdfc79019bf283823">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/msgpack-0.6.10-SNAPSHOT_da15bd20e0e5024db7e8c2741f9eb98eebbb8725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c968652731e7d4c94e336477d5dc7da239ef5ac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/sdktest_android/unspecified/jars/libs/emmsession.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e6266032fbc266677b62fb5f3d54936358453ac">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/emmsession_e2397a5f9d4bf3a1a21bdfab400b9f013d5b1921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/libs/hockeysdk-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bed05dfb5be90be011d193ef01745415fbb04a66">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/hockeysdk-android_85f3483b01abac60e7fc8a11253ce3b527f59e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/sdktest_android/unspecified/jars/libs/simple_eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7101ca15138aba093e11c715418e4901c3bc741b">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/simple_eventbus_05252e9ac11f4f769ea40ff47edbf1e763672b73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_90299727f98bc134a58114f8355145cbd9ed1e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/sdktest_android/unspecified/jars/libs/okhttp-2.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d58fb02d574cdbe8c6867dd7352a0c9b60061438">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-2.1.0-SNAPSHOT_6901b26dbda756f69a69bd279f1c4ca3c9adcc73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/sdktest_android/unspecified/jars/libs/emmsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d619810bb863c908d27b278cd7113bf817c47d3a">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/emmsdk_8232b9ab9ee4eb4de4d2414107a957b9c3e438d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_59cedf76a301175bb32d8ef2d2b660b8c2aa7abf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/WhitePad/unspecified/jars/libs/whitepad.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ae60b94d6ab06aa10d3379d1ed85e1d0fa2b71d">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/whitepad_9423201ae315bdfe3f3d0ab8ce4d20479b1a508c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_55024a5e44fbecc551c3dddc1ff6af7ddfd427f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b937900ab215fbcb16682b0d3cf7e13f3861054d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_610504b07c4e3c0a1a036f2b1fa0ffb273dd9667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="502f3b9c4b02963f405f118b693ae4e5a353e418">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4ddd5de840a8ee7ae127d67fb318acfddb2ff75e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_12d4b1334cccd8b895fa96da6f6f3d93408ac1a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/meetingSDKDemo/WhitePad/unspecified/jars/libs/android-async-http-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99e8efb80a4af6afd628997de84771cb33555304">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/android-async-http-1.4.4_c745192af3302ee4fbfd7c60f7c46170dee70be5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="912ec089b46a44c84b9e35370a84049fc9b33a3a">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cffbcc2c4a9fb4680ebadd09659bef6122497f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/leo/Documents/workspace/meetingSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_ca2ee76dfa64538c178ca4deededd18519865bb2/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sat Sep 24 22:43:13 CST 2016
+base.0=/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c65608c41aba76fddaa23e12795d8e17ac7ed301
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb16a30ce1e12fefef35ea6da57de36be4ea495c/classes.dex
+base.1=/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb16a30ce1e12fefef35ea6da57de36be4ea495c
+file.0=/Users/leo/Documents/workspace/code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c65608c41aba76fddaa23e12795d8e17ac7ed301/classes.dex

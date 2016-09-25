@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_mystorebutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_mystorebutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_typebutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_typebutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_cartbutton_normal2.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_cartbutton_normal2.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_typebutton_press.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_typebutton_press.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_mystorebutton_press.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_mystorebutton_press.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_cartbutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_cartbutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/type_second_gray_point.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/type_second_gray_point.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tb_bg_login_input_hl.9.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tb_bg_login_input_hl.9.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_homebutton_normal.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_homebutton_normal.png"
+    },
+    {
+        "merged": "/Users/leo/Documents/workspace/code/app/build/intermediates/res/merged/debug/drawable-xhdpi/tab_main_homebutton_press.png",
+        "source": "/Users/leo/Documents/workspace/code/app/src/main/res/drawable-xhdpi/tab_main_homebutton_press.png"
+    }
+]

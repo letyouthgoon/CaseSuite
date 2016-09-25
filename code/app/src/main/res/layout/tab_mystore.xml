@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fffafafa" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:background="#ffd9434e" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="18.0dip" android:textColor="#ffffffff" android:gravity="center" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="我的商城" android:layout_centerVertical="true" />
+        <Button android:textSize="15.0dip" android:gravity="center_vertical" android:id="@id/buttonRegistered" android:background="@drawable/num" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="注册" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ScrollView android:orientation="vertical" android:id="@id/SView" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/linearLayoutNOLogin" android:background="@drawable/login_title_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip">
+                <TextView android:textSize="16.0dip" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="欢迎使用" />
+                <Button android:textSize="15.0dip" android:textColor="#ffffffff" android:id="@id/buttonLoginSubmit" android:background="@drawable/login_submit_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="立即登陆" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linearLayoutYesLogin" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip">
+                    <ImageView android:id="@id/imageMyAvator" android:background="@drawable/image_background" android:padding="5.0dip" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/default_user_portrait" />
+                </LinearLayout>
+                <RelativeLayout android:orientation="vertical" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                        <TextView android:textSize="18.0dip" android:textColor="#ff6d6d6d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="用名昵称:" />
+                        <TextView android:textSize="20.0dip" android:textColor="#ff6d6d6d" android:id="@id/textMyUserName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="KingKong" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:background="@drawable/num" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_alignParentBottom="true">
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                            <TextView android:textSize="16.0dip" android:textColor="#ff6d6d6d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="积分" />
+                            <TextView android:textSize="16.0dip" android:textColor="#ffcc1212" android:id="@id/textMyPoint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:singleLine="true" />
+                        </LinearLayout>
+                        <View android:background="@drawable/product_summary_tab_item_title_bg" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:layout_weight="1.0">
+                            <TextView android:textSize="16.0dip" android:textColor="#ff6d6d6d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="余额" />
+                            <TextView android:textSize="16.0dip" android:textColor="#ffcc1212" android:id="@id/textMyPredepoit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="￥ 66643.0" android:singleLine="true" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <net.asiasofti.android.ui.custom.MyListView android:id="@id/mystoreListView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="10.0dip" android:listSelector="#00000000" android:divider="@null" />
+            <Button android:textSize="16.0dip" android:textColor="#ffffffff" android:layout_gravity="center_horizontal" android:id="@id/buttonLoingOut" android:background="@drawable/add_to_car_button_normal" android:padding="10.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:text="退出当前账号" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="net.asiasofti.android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+      <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="net.asiasofti.android.common.MyApp" android:theme="@style/MyTheme.Basic" android:windowSoftInputMode="stateHidden">
+        <meta-data android:name="AA_DB_NAME" android:value="ShopNC_2014.db"/>
+        <meta-data android:name="AA_DB_VERSION" android:value="1"/>
+        <activity android:label="@string/app_name" android:name="net.asiasofti.android.StartActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="net.asiasofti.android.MainActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.home.HomeActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.TypeAcitivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.TypeNextActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.GoodsListViewActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.GoodsTabActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.GoodsDetailsActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.GoodsDetailsWebAcivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.MyStoreActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.RegisteredActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.FavoritesListActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.PayMentWebAcivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.LoginActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.AddressListActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.FeekBaskActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.AddressEditActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.AddressAddActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.OrderListActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.SettingActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.BuyStep1Activity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.type.BuyAddressListActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.HistoryBrowseListActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.search.SearchActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.more.AboutActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.cart.CartActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name=".ui.mystore.HelpActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        
+    </application>
+    
+</manifest>
